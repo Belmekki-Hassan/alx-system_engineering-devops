@@ -1,1 +1,1 @@
-READEME for the shell redirections tasks
+All the tasks are done correctly, all bugs have been solved
